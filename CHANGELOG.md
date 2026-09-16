@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.3.3 (September 16, 2026)
+
+### Features
+
+- DNS (public beta): Nodes are now reachable by name, and organizations can define custom records, nameservers with split DNS, and search domains.
+
 ## v0.2.8 (July 4, 2026)
 
 ### Fixes
